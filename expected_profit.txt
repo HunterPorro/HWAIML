@@ -1,0 +1,4 @@
+Estimated submission profit (scaled from OOF): $1,310,809.28
+Target: $608,680.76
+Target met: YES
+Best shrinkage: 0.92  Best alpha: 0.9500
