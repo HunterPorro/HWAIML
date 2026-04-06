@@ -29,8 +29,3 @@ python3 optimize_to_810k.py
 ## Documentation
 
 - **`HW4_WORK_SUMMARY.md`** — section-by-section explanation of `optimize_to_810k.py` and a narrative summary of the project work.
-
-## Other files
-
-- `legacy_archive_not_for_submission/` — older experiments; **not** part of the clean pipeline. Do not use for grading unless your instructor allows it.
-- Other `.py` helpers in this folder (e.g. `run_eval.py`, `train_and_predict.py`) are separate experiments and are **not** required for the submission script above.
